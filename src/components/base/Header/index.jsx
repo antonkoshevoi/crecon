@@ -30,7 +30,7 @@ const Header = () => {
   return (
     <div className="z-1 pt-8 px-4 fixed w-full bg-white">
       <div className="mt-0 w-full max-w-full px-2">
-        <div className="z-1 flex h-16 items-center justify-between rounded-2xl border border-[rgb(228,228,231)] px-6 py-0">
+        <div className="z-1 flex h-16 items-center justify-between rounded-[20px] border border-[rgb(228,228,231)] px-6 py-0">
           <div className="flex flex-row items-center gap-12">
             <a href="https://crecon.exe-analytics.com/">
               <img src={logo} alt="logo" />
